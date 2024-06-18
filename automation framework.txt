@@ -1,0 +1,8 @@
+automation framework:
+
+using Python language. 
+pytest framework for tests.
+manage dependencies (requests, pytest)
+Define and write test cases for each API endpoint.
+Produce test reports for monitoring tests.
+Add to CICD pipelines for ongoing testing.
